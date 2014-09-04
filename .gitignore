@@ -24,7 +24,7 @@
 # exclude file of mssqlserver.txt
 #
 /test3/mssqlserver.txt
-**!/dir4/test.txt
+**/dir4/test.txt
 
 #/plugins
 #/vendors
