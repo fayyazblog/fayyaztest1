@@ -1,16 +1,7 @@
 # User specific & automatically generated files #
 #################################################
-/app/Config/database.php
-/admin/app/Config/database.php
-/app/tmp/
-/admin/app/tmp/
-/lib/Cake/Console/Templates/skel/tmp/
-/admin/lib/Cake/Console/Templates/skel/tmp/
-/app/webroot/img/event_slider/
-/app/webroot/img/uploaded_images/
-/admin/app/webroot/img/flags/
-/admin/app/webroot/img/uploaded_image/
-/app/webroot/js/fancybox.js
+/aspnet_client/
+123file.pptx
 #/plugins
 #/vendors
 /build
