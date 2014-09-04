@@ -20,6 +20,11 @@
 # C:\xampp\htdocs\fayyaztest1\test2\test3\test4
 # C:\xampp\htdocs\fayyaztest1\admin\test2\test3\test4
 **/test3/test4
+
+# exclude file of mssqlserver.txt
+#
+test3/mssqlserver.txt
+
 #/plugins
 #/vendors
 /build
