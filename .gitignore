@@ -23,7 +23,7 @@
 
 # exclude file of mssqlserver.txt
 #
-test3/mssqlserver.txt
+/test3/mssqlserver.txt
 
 #/plugins
 #/vendors
