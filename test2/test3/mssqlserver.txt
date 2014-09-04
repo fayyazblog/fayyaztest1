@@ -1,0 +1,12 @@
+Action required:
+Use the following information to resolve the error, and then try the setup process again.
+
+Feature failure reason:
+An error occurred during the setup process of the feature.
+
+Error details:
+§ Error installing SQL Server Data Tools
+Could not write value  to key \SOFTWARE.   Verify that you have sufficient access to that key, or contact your support personnel.
+Error code: 1406
+Log file: C:\Program Files\Microsoft SQL Server\110\Setup Bootstrap\Log\20140806_110721\sql_bids_Cpu64_1.log
+Visit http://go.microsoft.com/fwlink?LinkId=20476&ProdName=Microsoft+SQL+Server&EvtSrc=setup.rll&EvtID=50000&ProdVer=11.0.3128.0&EvtType=sql_bids.msi%40WriteRegistryValues%401406 to get help on troubleshooting.
