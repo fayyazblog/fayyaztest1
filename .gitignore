@@ -1,8 +1,8 @@
 # User specific & automatically generated files #
 #################################################
-aspnet_client/*
+**/aspnet_client/*
 123file.pptx
-fayyaz/2nd
+**/fayyaz/2nd
 #/plugins
 #/vendors
 /build
