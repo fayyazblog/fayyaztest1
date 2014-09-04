@@ -1,0 +1,33 @@
+xampp issues
+
+netstat -ano | find ":80"
+
+1- open skype > tools > advance or advance settings Change port 80 to something else 7395
+Restart your system then start Apache
+
+2- SQL Server Reporting Services (SSRS)
+SSRS can remain active even if you uninstall SQL Server. 
+To stop the service:
+
+3- IIS (Microsoft Internet Information Server)
+
+4- SQL Server Reporting Services
+Web Deployment Agent Service
+BranchCache
+World Wide Web Publishing Service
+
+5-On some Windows systems, oftentimes port 80 is already taken by HTTP.SYS for use.
+Show Reserved URLs:
+netsh http show urlacl
+Show active Registered URLs:
+netsh http show servicestate
+
+6 - Open the command line (System tab, button: Command Line) and run:
+
+netstat -o -n -a | findstr 0.0.0.0:80
+netstat -o -n -a | findstr 127.0.0.1:80
+
+	ss
+	
+	
+	
