@@ -1,9 +1,24 @@
 # User specific & automatically generated files #
 #################################################
+# didn't work first on starting steps of example.
+# C:\xampp\htdocs\fayyaztest1\admin\aspnet_client
+# C:\xampp\htdocs\fayyaztest1\aspnet_client
 **/aspnet_client/*
+
+# to exclude test1 from whole of site
+# C:\xampp\htdocs\fayyaztest1\admin\test1
+# C:\xampp\htdocs\fayyaztest1\test1
 **/test1/*
 123file.pptx
+
+# to exclude 2nd folder from whole of project
+# C:\xampp\htdocs\fayyaztest1\admin\fayyaz\2nd
+# C:\xampp\htdocs\fayyaztest1\fayyaz\2nd
 **/fayyaz/2nd
+
+# to exclude test4 under test3 from whole of project
+# C:\xampp\htdocs\fayyaztest1\test2\test3\test4
+# C:\xampp\htdocs\fayyaztest1\admin\test2\test3\test4
 **/test3/test4
 #/plugins
 #/vendors
