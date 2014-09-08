@@ -1,7 +1,0 @@
-my first text in this file
-
---2nd change in file
-==3rd change
-== fourtch change
-
-==fifth change after exclude
