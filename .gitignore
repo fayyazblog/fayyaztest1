@@ -14,7 +14,7 @@ aspnet_client/*
 # to exclude 2nd folder from whole of project
 # C:\xampp\htdocs\fayyaztest1\admin\fayyaz\2nd
 # C:\xampp\htdocs\fayyaztest1\fayyaz\2nd
-**/fayyaz/2nd
+**/fayyaz/2nd/*
 
 # to exclude test4 under test3 from whole of project
 # C:\xampp\htdocs\fayyaztest1\test2\test3\test4
@@ -26,7 +26,7 @@ aspnet_client/*
 /test3/mssqlserver.txt
 **/dir4/test.txt
 
-/track1/track2/
+/track1/track2/*
 
 #/plugins
 #/vendors
