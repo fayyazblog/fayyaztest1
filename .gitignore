@@ -3,7 +3,7 @@
 # didn't work first on starting steps of example.
 # C:\xampp\htdocs\fayyaztest1\admin\aspnet_client
 # C:\xampp\htdocs\fayyaztest1\aspnet_client
-**/aspnet_client/*
+aspnet_client/*
 
 # to exclude test1 from whole of site
 # C:\xampp\htdocs\fayyaztest1\admin\test1
@@ -25,6 +25,8 @@
 #
 /test3/mssqlserver.txt
 **/dir4/test.txt
+
+/track1/track2/
 
 #/plugins
 #/vendors
